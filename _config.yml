@@ -1,0 +1,9 @@
+# Site settings
+title: Psykoterapi Inga Grötting
+email: inga@psykoterapipaostermalm.se
+description: > # this means to ignore newlines until "markdown:"
+  Psykodynamisk psykoterapi och handledning
+  Existentiella samtal. Ingen tanke eller fundering är för liten för att tas på allvar!
+
+# Build settings
+markdown: kramdown
