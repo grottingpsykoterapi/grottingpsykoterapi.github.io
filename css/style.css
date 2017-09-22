@@ -1060,13 +1060,15 @@
 /* Footer */
 
 	#footer {
-		background: #f8f8f8;
+		background: rgba(40, 52, 21, 0.95);
 		padding: 4em 0 6em 0;
 	}
 
 		#footer a {
 			color: inherit;
 		}
+
+		#footer 
 
 		#footer .copyright {
 			color: #bbb;
